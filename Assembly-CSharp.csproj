@@ -65,9 +65,16 @@
     <Compile Include="Assets\Scripts\Juego.cs" />
     <Compile Include="Assets\Scripts\ArrastrarActividad.cs" />
     <Compile Include="Assets\Scripts\ControladorEscena.cs" />
+    <Compile Include="Assets\Scripts\ElementoConectable.cs" />
+    <Compile Include="Assets\Scripts\DialogoData.cs" />
     <Compile Include="Assets\Scripts\PalabraArrastrable.cs" />
     <Compile Include="Assets\Scripts\Actividad.cs" />
+    <Compile Include="Assets\Scripts\PantallaCreditos.cs" />
+    <Compile Include="Assets\Scripts\LineaUI.cs" />
     <Compile Include="Assets\Scripts\SalirJuego.cs" />
+    <Compile Include="Assets\Scripts\ConectarActividad.cs" />
+    <Compile Include="Assets\Scripts\PantallaResultado.cs" />
+    <Compile Include="Assets\Scripts\ControladorDialogo.cs" />
     <Compile Include="Assets\Scripts\ClickActividad.cs" />
   </ItemGroup>
   <ItemGroup>

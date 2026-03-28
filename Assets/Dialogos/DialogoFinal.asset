@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72564c3ab6b5014ab8b69ecbbac317d, type: 3}
+  m_Name: DialogoFinal
+  m_EditorClassIdentifier: 
+  lineas:
+  - nombrePersonaje: Erizo
+    spritePersonaje: {fileID: 7474645754422865998, guid: 86dbe51360f9ded4f936f45a1bb11377, type: 3}
+    audioLinea: {fileID: 8300000, guid: c8b4724abe4d0414b972d12732a753cb, type: 3}
+    texto: "Incre\xEDble\u2026 lograste poner todo en orden. Las oraciones han recuperado
+      su estructura y ahora todo vuelve a tener sentido. No cualquiera puede dominar
+      las funciones gramaticales as\xED. Gracias a ti, la oficina ya no es un desastre.
+      \xA1Sigue asi!"

@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 23ebdd5df995a804ea525641388c3c6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1574290731751438886
+    second: LOGO-VERDE-GRIS_0
+  - first:
+      213: 5137983299441234786
+    second: LOGO-VERDE-GRIS_1
+  - first:
+      213: -1470183521023409504
+    second: LOGO-VERDE-GRIS_2
+  - first:
+      213: -8420264768762741883
+    second: LOGO-VERDE-GRIS_3
+  - first:
+      213: -4202113238077832746
+    second: LOGO-VERDE-GRIS_4
+  - first:
+      213: -5873307064354008236
+    second: LOGO-VERDE-GRIS_5
+  - first:
+      213: 6142937117934712140
+    second: LOGO-VERDE-GRIS_6
+  - first:
+      213: -1271946338191261663
+    second: LOGO-VERDE-GRIS_7
+  - first:
+      213: 233766345724452384
+    second: LOGO-VERDE-GRIS_8
+  - first:
+      213: 7711737095688850069
+    second: LOGO-VERDE-GRIS_9
+  - first:
+      213: 3130270965101434182
+    second: LOGO-VERDE-GRIS_10
+  - first:
+      213: -5523511751096261009
+    second: LOGO-VERDE-GRIS_11
+  - first:
+      213: -4172033674042377906
+    second: LOGO-VERDE-GRIS_12
+  - first:
+      213: 3919192172416423438
+    second: LOGO-VERDE-GRIS_13
+  - first:
+      213: 5355457293330272243
+    second: LOGO-VERDE-GRIS_14
+  - first:
+      213: 1570146138048512126
+    second: LOGO-VERDE-GRIS_15
+  - first:
+      213: 5717975408750322881
+    second: LOGO-VERDE-GRIS_16
+  - first:
+      213: -1866948730311832434
+    second: LOGO-VERDE-GRIS_17
+  - first:
+      213: 169850834692618476
+    second: LOGO-VERDE-GRIS_18
+  - first:
+      213: 1512694017211415042
+    second: LOGO-VERDE-GRIS_19
+  - first:
+      213: -6764429042244011567
+    second: LOGO-VERDE-GRIS_20
+  - first:
+      213: -8360304348696289043
+    second: LOGO-VERDE-GRIS_21
+  - first:
+      213: -985491776658936283
+    second: LOGO-VERDE-GRIS_22
+  - first:
+      213: -2090790578376068383
+    second: LOGO-VERDE-GRIS_23
+  - first:
+      213: 2283346463956456349
+    second: LOGO-VERDE-GRIS_24
+  - first:
+      213: 5042078571417496968
+    second: LOGO-VERDE-GRIS_25
+  - first:
+      213: -2682373818064091833
+    second: LOGO-VERDE-GRIS_26
+  - first:
+      213: 6820547891479285293
+    second: LOGO-VERDE-GRIS_27
+  - first:
+      213: -8285645035110864721
+    second: LOGO-VERDE-GRIS_28
+  - first:
+      213: 3401863675958828311
+    second: LOGO-VERDE-GRIS_29
+  - first:
+      213: -6204772509913857861
+    second: LOGO-VERDE-GRIS_30
+  - first:
+      213: 697174266994979577
+    second: LOGO-VERDE-GRIS_31
+  - first:
+      213: -941383778522540447
+    second: LOGO-VERDE-GRIS_32
+  - first:
+      213: -983095405895396649
+    second: LOGO-VERDE-GRIS_33
+  - first:
+      213: -1848001553286082881
+    second: LOGO-VERDE-GRIS_34
+  - first:
+      213: 833291360359150
+    second: LOGO-VERDE-GRIS_35
+  - first:
+      213: -1944839684212144385
+    second: LOGO-VERDE-GRIS_36
+  - first:
+      213: 3283457184302317561
+    second: LOGO-VERDE-GRIS_37
+  - first:
+      213: 8435828880390056439
+    second: LOGO-VERDE-GRIS_38
+  - first:
+      213: 2738528905964879770
+    second: LOGO-VERDE-GRIS_39
+  - first:
+      213: 8531299149886913035
+    second: LOGO-VERDE-GRIS_40
+  - first:
+      213: -4526492826985845403
+    second: LOGO-VERDE-GRIS_41
+  - first:
+      213: 2479484947045892620
+    second: LOGO-VERDE-GRIS_42
+  - first:
+      213: 9026649808718810558
+    second: LOGO-VERDE-GRIS_43
+  - first:
+      213: -6226116665464476200
+    second: LOGO-VERDE-GRIS_44
+  - first:
+      213: -4944774725280043073
+    second: LOGO-VERDE-GRIS_45
+  - first:
+      213: 3925936331970102500
+    second: LOGO-VERDE-GRIS_46
+  - first:
+      213: 1594629846380102287
+    second: LOGO-VERDE-GRIS_47
+  - first:
+      213: 678612147435193772
+    second: LOGO-VERDE-GRIS_48
+  - first:
+      213: -8854671095799740681
+    second: LOGO-VERDE-GRIS_49
+  - first:
+      213: -3624869417663044297
+    second: LOGO-VERDE-GRIS_50
+  - first:
+      213: 6483830127743134356
+    second: LOGO-VERDE-GRIS_51
+  - first:
+      213: -2927548650167495284
+    second: LOGO-VERDE-GRIS_52
+  - first:
+      213: -2753098538031675656
+    second: LOGO-VERDE-GRIS_53
+  - first:
+      213: 6512486283543209674
+    second: LOGO-VERDE-GRIS_54
+  - first:
+      213: 3160082427977237217
+    second: LOGO-VERDE-GRIS_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 186
+        width: 371
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62afb3f541109d510800000000000000
+      internalID: 1574290731751438886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 278
+        width: 371
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639511b698cd4740800000000000000
+      internalID: 5137983299441234786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_2
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 278
+        width: 392
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a244c280ebd89be0800000000000000
+      internalID: -1470183521023409504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_3
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 278
+        width: 95
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bf8272ec5352b80800000000000000
+      internalID: -8420264768762741883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_4
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 646
+        width: 463
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1876216481fa5c0800000000000000
+      internalID: -4202113238077832746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_5
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 278
+        width: 371
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4531364d752dd7ea0800000000000000
+      internalID: -5873307064354008236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_6
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 278
+        width: 392
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c457f0813c8104550800000000000000
+      internalID: 6142937117934712140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_7
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 278
+        width: 95
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12040c26b83295ee0800000000000000
+      internalID: -1271946338191261663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 114
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ed85db0418e3300800000000000000
+      internalID: 233766345724452384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 114
+        width: 12
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a8cbda708950b60800000000000000
+      internalID: 7711737095688850069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 113
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645179d9bd4f07b20800000000000000
+      internalID: 3130270965101434182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 113
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f662633c35b8853b0800000000000000
+      internalID: -5523511751096261009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 113
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e497cb35a75f916c0800000000000000
+      internalID: -4172033674042377906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_13
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 113
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065f5b1484c36630800000000000000
+      internalID: 3919192172416423438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_14
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffc9baa808625a40800000000000000
+      internalID: 5355457293330272243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_15
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7045d3f7974ac510800000000000000
+      internalID: 1570146138048512126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_16
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 113
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c46bf0d6545a5f40800000000000000
+      internalID: 5717975408750322881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_17
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 114
+        width: 12
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c85e375044716e0800000000000000
+      internalID: -1866948730311832434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_18
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 114
+        width: 11
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce838aa2f6e6b5200800000000000000
+      internalID: 169850834692618476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_19
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abebda13b2ef410800000000000000
+      internalID: 1512694017211415042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_20
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 168
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b5b420abef12a0800000000000000
+      internalID: -6764429042244011567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_21
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 114
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0edc95d7b3afb80800000000000000
+      internalID: -8360304348696289043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_22
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 114
+        width: 12
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eec235374d252f0800000000000000
+      internalID: -985491776658936283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_23
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 168
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e23924eb050cf2e0800000000000000
+      internalID: -2090790578376068383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_24
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93d443e28310bf10800000000000000
+      internalID: 2283346463956456349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_25
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de2f22fbf09f540800000000000000
+      internalID: 5042078571417496968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_26
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 113
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7454b7b693b46cad0800000000000000
+      internalID: -2682373818064091833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_27
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e8925ab2477ae50800000000000000
+      internalID: 6820547891479285293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_28
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 113
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8ec336db9730d80800000000000000
+      internalID: -8285645035110864721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_29
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 114
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d94db4df8d53f20800000000000000
+      internalID: 3401863675958828311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_30
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 113
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0c97ac64834e9a0800000000000000
+      internalID: -6204772509913857861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_31
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 114
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f277c25d4cdca900800000000000000
+      internalID: 697174266994979577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_32
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16659dbe0788fe2f0800000000000000
+      internalID: -941383778522540447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_33
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 114
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2594fdfe75b52f0800000000000000
+      internalID: -983095405895396649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_34
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 113
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4300e0649a56e0800000000000000
+      internalID: -1848001553286082881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_35
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 113
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee25783cfd5f20000800000000000000
+      internalID: 833291360359150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_36
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 113
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6c3758c9a8205e0800000000000000
+      internalID: -1944839684212144385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_37
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff3b81a9ee219d20800000000000000
+      internalID: 3283457184302317561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_38
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 114
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f961a9fba5121570800000000000000
+      internalID: 8435828880390056439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_39
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 93
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ffc27d785310620800000000000000
+      internalID: 2738528905964879770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_40
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 113
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af9954063456670800000000000000
+      internalID: 8531299149886913035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_41
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 114
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da72991caae21c0800000000000000
+      internalID: -4526492826985845403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_42
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 114
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0249962c66e86220800000000000000
+      internalID: 2479484947045892620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_43
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 113
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd48800d2a154d70800000000000000
+      internalID: 9026649808718810558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_44
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 114
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dda9d051e36899a0800000000000000
+      internalID: -6226116665464476200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_45
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 114
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6a5df591a06bb0800000000000000
+      internalID: -4944774725280043073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_46
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4c0ed1b4abb7630800000000000000
+      internalID: 3925936331970102500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_47
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 92
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82c8b58563412610800000000000000
+      internalID: 1594629846380102287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_48
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 113
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5c324172aea6900800000000000000
+      internalID: 678612147435193772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_49
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f600fb6d83ed1580800000000000000
+      internalID: -8854671095799740681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_50
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 114
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73564035870e1bdc0800000000000000
+      internalID: -3624869417663044297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_51
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 113
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aea1cf5213bf950800000000000000
+      internalID: 6483830127743134356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_52
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 113
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85971473024f57d0800000000000000
+      internalID: -2927548650167495284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_53
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 93
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f689f857770bc9d0800000000000000
+      internalID: -2753098538031675656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_54
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 114
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6623f25cff06a50800000000000000
+      internalID: 6512486283543209674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-VERDE-GRIS_55
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 113
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e28984b93edadb20800000000000000
+      internalID: 3160082427977237217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LOGO-VERDE-GRIS_0: 1574290731751438886
+      LOGO-VERDE-GRIS_1: 5137983299441234786
+      LOGO-VERDE-GRIS_10: 3130270965101434182
+      LOGO-VERDE-GRIS_11: -5523511751096261009
+      LOGO-VERDE-GRIS_12: -4172033674042377906
+      LOGO-VERDE-GRIS_13: 3919192172416423438
+      LOGO-VERDE-GRIS_14: 5355457293330272243
+      LOGO-VERDE-GRIS_15: 1570146138048512126
+      LOGO-VERDE-GRIS_16: 5717975408750322881
+      LOGO-VERDE-GRIS_17: -1866948730311832434
+      LOGO-VERDE-GRIS_18: 169850834692618476
+      LOGO-VERDE-GRIS_19: 1512694017211415042
+      LOGO-VERDE-GRIS_2: -1470183521023409504
+      LOGO-VERDE-GRIS_20: -6764429042244011567
+      LOGO-VERDE-GRIS_21: -8360304348696289043
+      LOGO-VERDE-GRIS_22: -985491776658936283
+      LOGO-VERDE-GRIS_23: -2090790578376068383
+      LOGO-VERDE-GRIS_24: 2283346463956456349
+      LOGO-VERDE-GRIS_25: 5042078571417496968
+      LOGO-VERDE-GRIS_26: -2682373818064091833
+      LOGO-VERDE-GRIS_27: 6820547891479285293
+      LOGO-VERDE-GRIS_28: -8285645035110864721
+      LOGO-VERDE-GRIS_29: 3401863675958828311
+      LOGO-VERDE-GRIS_3: -8420264768762741883
+      LOGO-VERDE-GRIS_30: -6204772509913857861
+      LOGO-VERDE-GRIS_31: 697174266994979577
+      LOGO-VERDE-GRIS_32: -941383778522540447
+      LOGO-VERDE-GRIS_33: -983095405895396649
+      LOGO-VERDE-GRIS_34: -1848001553286082881
+      LOGO-VERDE-GRIS_35: 833291360359150
+      LOGO-VERDE-GRIS_36: -1944839684212144385
+      LOGO-VERDE-GRIS_37: 3283457184302317561
+      LOGO-VERDE-GRIS_38: 8435828880390056439
+      LOGO-VERDE-GRIS_39: 2738528905964879770
+      LOGO-VERDE-GRIS_4: -4202113238077832746
+      LOGO-VERDE-GRIS_40: 8531299149886913035
+      LOGO-VERDE-GRIS_41: -4526492826985845403
+      LOGO-VERDE-GRIS_42: 2479484947045892620
+      LOGO-VERDE-GRIS_43: 9026649808718810558
+      LOGO-VERDE-GRIS_44: -6226116665464476200
+      LOGO-VERDE-GRIS_45: -4944774725280043073
+      LOGO-VERDE-GRIS_46: 3925936331970102500
+      LOGO-VERDE-GRIS_47: 1594629846380102287
+      LOGO-VERDE-GRIS_48: 678612147435193772
+      LOGO-VERDE-GRIS_49: -8854671095799740681
+      LOGO-VERDE-GRIS_5: -5873307064354008236
+      LOGO-VERDE-GRIS_50: -3624869417663044297
+      LOGO-VERDE-GRIS_51: 6483830127743134356
+      LOGO-VERDE-GRIS_52: -2927548650167495284
+      LOGO-VERDE-GRIS_53: -2753098538031675656
+      LOGO-VERDE-GRIS_54: 6512486283543209674
+      LOGO-VERDE-GRIS_55: 3160082427977237217
+      LOGO-VERDE-GRIS_6: 6142937117934712140
+      LOGO-VERDE-GRIS_7: -1271946338191261663
+      LOGO-VERDE-GRIS_8: 233766345724452384
+      LOGO-VERDE-GRIS_9: 7711737095688850069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

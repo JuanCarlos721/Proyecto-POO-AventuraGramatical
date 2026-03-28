@@ -31,10 +31,15 @@ public class PalabraArrastrable : MonoBehaviour, IBeginDragHandler, IDragHandler
 
     private void Awake()
     {
-        // asignar componentes de unity a variables para controlarlos
         rectTransform = GetComponent<RectTransform>();
         canvasGroup = GetComponent<CanvasGroup>();
-        canvas = GetComponent<Canvas>();
+
+        // FindFirstObjectByType busca el Canvas en toda la escena,
+        canvas = FindFirstObjectByType<Canvas>();
+
+        // Verificamos que lo encontro antes de continuar
+        if (canvas == null)
+            Debug.LogError("No se encontro ningun Canvas en la escena.");
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

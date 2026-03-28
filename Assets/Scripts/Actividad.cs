@@ -13,16 +13,6 @@ public abstract class Actividad : MonoBehaviour
     public abstract void Mostrar();
     public abstract bool Evaluar(object respuesta);
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     public void ReproducirSonido(AudioClip audio)
     {
         // AudioSource.PlayClipAtPoint() reproduce un clip de audio en una zona de la pantalla

@@ -34,17 +34,20 @@ public class ArrastrarActividad : MonoBehaviour
 
         ActualizarProgreso();
 
-        // Si ya se respondieron todas las palabras, evaluamos el resultado
+        // Si ya se respondieron todas las palabras, evaluar el resultado
         if (palabrasRespondidas >= totalPalabras)
         {
-            bool nivelSuperado = Evaluar(palabrasCorrectas);
-            Debug.Log(nivelSuperado ? "¡Nivel superado!" : "Intenta de nuevo");
+            int estrellas = 0;
+            if (palabrasCorrectas == totalPalabras) estrellas = 3;
+            else if (palabrasCorrectas >= totalPalabras / 2) estrellas = 2;
+            else if (palabrasCorrectas > 0) estrellas = 1;
+
+            Juego.Instance.NivelCompletado(estrellas);
         }
     }
 
     void ActualizarProgreso()
     {
-        // String interpolation: el $ permite insertar variables
         // directamente dentro del texto con {}
         textoProgreso.text = $"{palabrasCorrectas} / {totalPalabras} palabras";
     }
@@ -55,4 +58,6 @@ public class ArrastrarActividad : MonoBehaviour
         int correctas = (int)respuesta;  // (int) convierte el objeto a entero
         return correctas >= totalPalabras / 2;
     }
+
+
 }

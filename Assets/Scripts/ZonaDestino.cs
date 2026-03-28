@@ -9,7 +9,7 @@ using System.Collections;
 public class ZonaDestino : MonoBehaviour, IDropHandler
 {
     [Header("Datos de la zona")]
-    // La categoría que acepta esta zona. Ej: "Verbo"
+    // La categoria que acepta esta zona. Ej: "Verbo"
     // Debe coincidir EXACTAMENTE con la categoria de PalabraArrastrable
     public string categoriaAceptada;
 
@@ -34,11 +34,14 @@ public class ZonaDestino : MonoBehaviour, IDropHandler
         colorNormal = imagenZona.color;
 
         // GetComponentInParent busca ArrastrarActividad en este
-        // objeto o en cualquiera de sus padres en la jerarquía
+        // objeto o en cualquiera de sus padres en la jerarquia
         actividadPadre = GetComponentInParent<ArrastrarActividad>();
     }
 
-    // OnDrop() es llamado por Unity automáticamente cuando
+    // OnDrop() es llamado por Unity autom
+    //
+    //
+    // ticamente cuando
     // un objeto con IDragHandler se suelta sobre esta zona
     public void OnDrop(PointerEventData eventData)
     {
@@ -50,7 +53,7 @@ public class ZonaDestino : MonoBehaviour, IDropHandler
         // Si el objeto soltado no tiene PalabraArrastrable, ignoramos
         if (palabra == null) return;
 
-        // Comparamos la categoría de la palabra con la que acepta esta zona
+        // Comparamos la categoria de la palabra con la que acepta esta zona
         bool esCorrecta = palabra.categoria == categoriaAceptada;
 
         if (esCorrecta)
@@ -70,8 +73,8 @@ public class ZonaDestino : MonoBehaviour, IDropHandler
 
             MostrarFeedback(false);
 
-            // Destruimos la palabra incorrecta después de mostrar el feedback
-            // Destroy(objeto, segundos) lo elimina después de X segundos
+            // Destruimos la palabra incorrecta despues de mostrar el feedback
+            // Destroy(objeto, segundos) lo elimina despues de X segundos
             Destroy(eventData.pointerDrag, 1f);
         }
     }
@@ -84,7 +87,7 @@ public class ZonaDestino : MonoBehaviour, IDropHandler
         // Cambiamos el color de fondo de la zona brevemente
         imagenZona.color = correcto ? colorCorrecto : colorIncorrecto;
 
-        // Iniciamos una coroutine para restaurar el color después de 1 segundo
+        // Iniciamos una coroutine para restaurar el color despues de 1 segundo
         StartCoroutine(RestaurarColor());
     }
 

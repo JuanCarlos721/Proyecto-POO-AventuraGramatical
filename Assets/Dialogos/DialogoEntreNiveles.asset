@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72564c3ab6b5014ab8b69ecbbac317d, type: 3}
+  m_Name: DialogoEntreNiveles
+  m_EditorClassIdentifier: 
+  lineas:
+  - nombrePersonaje: Cofi
+    spritePersonaje: {fileID: 7474645754422865998, guid: 86dbe51360f9ded4f936f45a1bb11377, type: 3}
+    audioLinea: {fileID: 8300000, guid: 26da4d4e222866e4a8a3687a0a014ae2, type: 3}
+    texto: "Oye, esto se est\xE1 poniendo m\xE1s complicado de lo que parec\xEDa.
+      Las oraciones ya no solo est\xE1n desordenadas, tambi\xE9n est\xE1n confundiendo
+      sus funciones. Pero tranquilo, vamos bien. Si identificas correctamente cada
+      parte, pronto todo empezar\xE1 a tener sentido. \xA1Sigue as\xED!"

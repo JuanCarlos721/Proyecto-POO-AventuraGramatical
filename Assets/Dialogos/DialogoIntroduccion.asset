@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72564c3ab6b5014ab8b69ecbbac317d, type: 3}
+  m_Name: DialogoIntroduccion
+  m_EditorClassIdentifier: 
+  lineas:
+  - nombrePersonaje: Erizo
+    spritePersonaje: {fileID: -1363330305178235083, guid: 97aec9ad8c4b5014bb9a259536c4bb93, type: 3}
+    audioLinea: {fileID: 8300000, guid: c8b4724abe4d0414b972d12732a753cb, type: 3}
+    texto: "Hola, Cofi. Hay un desastre en la oficina y necesito que me ayudes a
+      arreglar las oraciones. \xA1Son todo un desastre!\nOrd\xE9nalas de acuerdo
+      con sus funciones gramaticales. \xA1Eres mi mejor elemento!"
