@@ -3,13 +3,10 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-// Clase que representa una sola pregunta con su oración y opciones
-// [System.Serializable] permite editarla como bloque en el Inspector
 [System.Serializable]
 public class PreguntaClick
 {
-    // La oración completa con _____ donde va la palabra
-    // Ej: "El perro _____ en el parque"
+    // La oracion completa con _____ donde va la palabra
     [TextArea(1, 3)]
     public string oracion;
 
@@ -22,9 +19,9 @@ public class PreguntaClick
 public class ClickActividad : Actividad
 {
     [Header("Elementos de la UI")]
-    public TextMeshProUGUI textoPalabra;       // Muestra la oración
+    public TextMeshProUGUI textoPalabra;       // Muestra la oracion
     public Button[] botonesOpciones;           // Los 4 botones
-    public TextMeshProUGUI[] textosOpciones;   // Textos de cada botón
+    public TextMeshProUGUI[] textosOpciones;   // Textos de cada boton
     public TextMeshProUGUI textoFeedback;
     public TextMeshProUGUI textoProgreso;      // Ej: "Pregunta 1 / 4"
 
@@ -47,7 +44,7 @@ public class ClickActividad : Actividad
         MostrarPreguntaActual();
     }
 
-    // Carga la pregunta del índice actual en la UI
+    // Carga la pregunta del indice actual en la UI
     void MostrarPreguntaActual()
     {
         // Resetear estado para la nueva pregunta
@@ -61,7 +58,7 @@ public class ClickActividad : Actividad
         // Obtener la pregunta actual del array
         PreguntaClick pregunta = preguntas[indicePreguntaActual];
 
-        // Mostrar la oración con el espacio vacío
+        // Mostrar la oracion con el espacio vacio
         textoPalabra.text = pregunta.oracion;
 
         // Actualizar progreso
@@ -72,7 +69,7 @@ public class ClickActividad : Actividad
         {
             textosOpciones[i].text = pregunta.opciones[i];
 
-            int n = i; // capturar índice para el listener
+            int n = i; // capturar indice para el listener
             botonesOpciones[i].onClick.RemoveAllListeners();
             botonesOpciones[i].onClick.AddListener(() => AlHacerClick(n));
 
@@ -89,11 +86,11 @@ public class ClickActividad : Actividad
         string respuestaJugador = pregunta.opciones[indice];
         bool esCorrecta = respuestaJugador.Equals(pregunta.respuestaCorrecta);
 
-        // Colorear botón presionado
+        // Colorear boton presionado
         botonesOpciones[indice].GetComponent<Image>().color =
             esCorrecta ? colorCorrecto : colorIncorrecto;
 
-        // Si falló, mostrar cuál era la correcta en verde
+        // Si fallo, mostrar cual era la correcta en verde
         if (!esCorrecta)
         {
             for (int i = 0; i < pregunta.opciones.Length; i++)
@@ -142,7 +139,7 @@ public class ClickActividad : Actividad
             if (Juego.Instance != null)
                 Juego.Instance.NivelCompletado(estrellas);
             else
-                Debug.LogError("No se encontró Juego.Instance");
+                Debug.LogError("No se encontro Juego.Instance");
         }
     }
 

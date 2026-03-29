@@ -55,19 +55,19 @@ public class Juego : MonoBehaviour
     // Llamado por DialogoManager cuando termina el dialogo
     public void DialogoCompletado()
     {
-        // Dialogo introduccion → nivel 1 (arrastrar)
+        // Dialogo introduccion -> nivel 1 (arrastrar)
         if (dialogoPendiente == dialogoIntroduccion)
         {
             estadoActual = EstadoJuego.NivelArrastrar;
             SceneManager.LoadScene("NivelArrastrarActividad");
         }
-        // Dialogo entre niveles → nivel 2 (click)
+        // Dialogo entre niveles -> nivel 2 (click)
         else if (dialogoPendiente == dialogoEntreNiveles)
         {
             estadoActual = EstadoJuego.NivelClick;
             SceneManager.LoadScene("NivelClickActividad");
         }
-        // Dialogo final → nivel 3 (conectar)
+        // Dialogo final -> nivel 3 (conectar)
         else if (dialogoPendiente == dialogoFinal)
         {
             estadoActual = EstadoJuego.NivelConectar;
@@ -105,21 +105,21 @@ public class Juego : MonoBehaviour
     {
         switch (estadoActual)
         {
-            // Después del nivel 1 → diálogo entre niveles
+            // Despues del nivel 1 - dialogo entre niveles
             case EstadoJuego.PuntosNivel1:
                 estadoActual = EstadoJuego.Dialogo;
                 dialogoPendiente = dialogoEntreNiveles;
                 SceneManager.LoadScene("Dialogo");
                 break;
 
-            // Después del nivel 2 → diálogo final
+            // Despues del nivel 2 - dialogo final
             case EstadoJuego.PuntosNivel2:
                 estadoActual = EstadoJuego.Dialogo;
                 dialogoPendiente = dialogoFinal;
                 SceneManager.LoadScene("Dialogo");
                 break;
 
-            // Después del nivel 3 → regresa al menú
+            // Despues del nivel 3 - regresa al menu
             case EstadoJuego.PuntosFinales:
                 estadoActual = EstadoJuego.Menu;
                 SceneManager.LoadScene("Menu");

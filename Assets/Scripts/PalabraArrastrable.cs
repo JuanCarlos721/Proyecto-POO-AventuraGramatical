@@ -71,11 +71,18 @@ public class PalabraArrastrable : MonoBehaviour, IBeginDragHandler, IDragHandler
     }
 
     // OnDrag se ejecuta cada frame que el jugador esta arrastrando un objeto
-    public void OnDrag(PointerEventData eventData) 
+    public void OnDrag(PointerEventData eventData)
     {
-        // eventData.delta es cuantos pixeles se mueve el mouse este frame
-        // se divide por canvas.scaleFactor para que funcione en cualquier resolucion de pantalla
-        rectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
+        // RectTransformUtility convierte correctamente la posición del mouse
+        // al espacio local del Canvas sin importar el scaleFactor o resolución
+        Vector2 posicionLocal;
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(
+            canvas.transform as RectTransform,  // el canvas como referencia
+            eventData.position,                  // posición actual del mouse en pantalla
+            eventData.pressEventCamera,          // cámara que detectó el evento
+            out posicionLocal                    // resultado en coordenadas del canvas
+        );
+        rectTransform.localPosition = posicionLocal;
     }
 
     // OnEndDrag se ejecuta al soltar el click despues de arrastrar

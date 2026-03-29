@@ -14,7 +14,7 @@ public class PantallaResultado : MonoBehaviour
     public Image[] imagenesEstrellas = new Image[3];
     // Sprite de estrella llena (asignar en Inspector)
     public Sprite estrellaLlena;
-    // Sprite de estrella vacía (asignar en Inspector)
+    // Sprite de estrella vacia (asignar en Inspector)
     public Sprite estrellaVacia;
 
     void Start()
@@ -40,13 +40,13 @@ public class PantallaResultado : MonoBehaviour
                 break;
         }
 
-        // Título según puntaje
+        // Titulo segun puntaje
         if (estrellas >= 3) textoTitulo.text = "¡Excelente!";
         else if (estrellas == 2) textoTitulo.text = "¡Muy bien!";
         else if (estrellas == 1) textoTitulo.text = "¡Buen intento!";
         else textoTitulo.text = "¡Sigue practicando!";
 
-        // Activar estrella llena o vacía según el puntaje
+        // Activar estrella llena o vacia segun el puntaje
         // i=0 es la primera estrella, i=1 la segunda, i=2 la tercera
         for (int i = 0; i < imagenesEstrellas.Length; i++)
         {
